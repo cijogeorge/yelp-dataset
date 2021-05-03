@@ -1,0 +1,6 @@
+pandas==1.2.4
+tqdm==4.60.0
+gensim==4.0.1
+python-Levenshtein==0.12.2
+nltk==3.6.2
+torch==1.8.1
